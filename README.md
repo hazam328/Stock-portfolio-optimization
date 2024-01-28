@@ -15,6 +15,7 @@ Intel Corporation (INTC)
 Twitter, Inc. (TWTR)
 United Airlines Holdings, Inc. (UAL)
 Uber Technologies, Inc.(UBER)
+
 2. Evaluation
 Take out the mean of n-stocks and co-variance between n-stocks.
 
