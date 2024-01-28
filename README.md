@@ -5,7 +5,7 @@ Applying a classical mean-variance to an investment in a real financial market. 
 
 The task is divided into 4 steps:
 
-1.Data
+1. Data
 select any 5 stocks from stock market and grab the historical data from *01-01-2020* to *12-31-2020* where it has historical prices of each stock for each transaction day, The stocks have been picked from: https://finance.yahoo.com
 
 The 5 random stocks Which we are going to use is:
